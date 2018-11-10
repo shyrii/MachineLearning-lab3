@@ -1,6 +1,5 @@
 import numpy
 
-
 class NPDFeature():
     """It is a tool class to extract the NPD features.
 
